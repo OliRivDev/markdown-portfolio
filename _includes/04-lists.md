@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. JavaScript
+2. HTML
+3. CSS
